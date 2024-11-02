@@ -1,0 +1,81 @@
+---
+id: 4103
+title: 'Analysis: District 8 election and runoff'
+date: '2015-01-09T16:19:25+00:00'
+author: oakhillgazette
+excerpt: ' With only 56 votes separating the two candidates in the runoff election, one can expect campaigns in District 8 to be intense in the future. Troxclair has four years to demonstrate that she can serve a constituency that is about equally divided between supporters and detractors. Can she work with other council members to deal with the issues that dominated the campaign—affordability, transportation, and the city’s budget? There is little doubt that many Democrats will be watching closely and that some will be preparing to challenge her when she seeks re-election in 2018.'
+layout: post
+guid: 'http://oakhillgazette.com/?p=4103'
+permalink: /news/2015/01/analysis-district-8-election-and-runoff-2/
+post_views_count:
+    - '6360'
+fv_video:
+    - 'Paste your YouTube or Vimeo url'
+fv_video_id:
+    - ''
+fv_video_img:
+    - ''
+post-sidebar:
+    - main-sidebar
+image: /wp-content/uploads/sites/15/2014/11/EdEllen-1.jpg
+categories:
+    - News
+---
+
+*by Stefan Haag*
+
+*Stefan Haag is a retired professor of Government at ACC and the coauthor of a college textbook on Texas politics and government.*
+
+Under the 10-1 election system, which was established through a charter amendment in 2012, the mayor is elected at-large, and ten council members are elected in single-member districts. The first election under the new system drew seven candidates for mayor and 70 candidates for the ten council seats. In District 8, which includes most of southwest Austin, five candidates—Becky Bray, Darrell Pierce, Eliza May, Ed Scruggs, and Ellen Troxclair—competed in the November general election. With five candidates, the likelihood that any candidate would receive a majority of the vote and win the seat was remote. Indeed, the general election resulted in the candidate who received the greatest percentage of the vote—Ellen Troxclair—garnering only 27 percent of the vote. The next highest vote total belonged to Ed Scruggs, who received 26 percent of the vote. Only 179 votes separated the two candidates. With no candidate winning a majority, Troxclair and Scruggs moved on to compete in the December 16, 2014 runoff election.
+
+**District 8: Demographics and Politics**
+
+According to the 2010 census, District 8 has 77,650 residents. The population is primarily Anglo (69.7 percent), with some Hispanics (17.7 percent), a few Asian Americans (8.0 percent), and very few African Americans (2.2 percent). The median household income is $109,000 per annum, the second highest among the ten districts. District 8 also has the highest percentage of home ownership among the ten districts. In summary, the population is largely affluent and Anglo.
+
+Politically, the district is considered a swing district, where neither Democrats nor Republicans dominate. In the 2012 presidential election, Democratic President Barack Obama defeated Republican Mitt Romney by 994 votes in the precincts that are completely within District 8. (Four precincts—301, 302, 338, and 364—have portions of the precinct that are not within District 8’s boundaries.) In the 2014 gubernatorial contest, Democrat Wendy Davis defeated Republican Greg Abbott in the same precincts by 3,531 votes (55 percent to Abbott’s 45 percent). There is little doubt that the district’s voters are nearly evenly divided between Republicans and Democrats.
+
+**The Prevailing Candidates: the General Election in District 8**
+
+Ellen Troxclair, a realtor and chief of staff for Texas House member Jason Issac (R-Dripping Springs), organized her campaign around three key issues and presented herself as a candidate who would bring common sense to City Council decision making. She framed the issues and her appeal to the voters on the premise that Austin was spending too much money and that the spending was on items that were not the basic functions of government. The issues on which she focused her campaign were transportation, affordability, and budget priorities.
+
+On transportation, she criticized the rail plan that was presented to voters in November 2014, citing its cost and limited coverage. She also emphasized the lack of public transportation in District 8 as well as a number of road projects that have been delayed for southwest Austin, such as the interchange at the “Y” in Oak Hill and the extension of Highway 45 SW to connect MOPAC with FM 1826 in Hays County. The affordability issue involved property taxes, which she argued had increased 40 percent since 1998. Given the high percentage of home ownership in the district and the dramatic increase in property values, her message resonated with voters. Her solution was an immediate 20 percent homestead exemption. Her campaign also emphasized the basic function of government, providing for the public’s safety with fire, EMS, and police protection.
+
+Ed Scruggs, an independent auditor for pharmaceutical companies, has been active in his homeowners association, serving as a board member and president. He also founded the Circle C Democrats and worked to establish elementary and middle schools in southwest Austin. He maintained that he was the better candidate to work with other council members to achieve collective goals. Scruggs emphasized some of the same issues as Troxclair, but he framed them differently. On affordability, Scruggs argued that a homestead exemption of 20 percent should be phased in over a period of years rather than immediately. He also maintained that a homestead exemption provided little relief to homeowners and that the real solution involved how property was assessed in Travis County, especially the discrepancy between commercial and private property. He noted that tax appraisals by the Travis County Appraisal District had increased dramatically in many subdivisions in southwest Austin.
+
+Scruggs also differed with Troxclair on transportation issues, arguing that extending Hwy 45 SW to FM 1826 would create an additional burden on MOPAC and provide little relief for the congestion that burdens residents along Brodie Lane. He also expressed environmental concerns as the road will be constructed over the Edwards Aquifer. In terms of city services, Scruggs emphasized parks, green spaces, and libraries, noting the needs of Circle C Metropolitan Park, Dick Nichols Park, and Hampton Branch library. Scruggs appealed to liberal and moderate Democrats, which formed his constituent base and provided most of his volunteers.
+
+Though Austin City Council elections are nonpartisan affairs, party identification played a major role in explaining the results of the general election. In the general election, the two candidates most closely aligned with a political party won enough votes to make the runoff. Neither Troxclair nor Scruggs were bashful about their allegiance to their political party affiliation. As a result, the candidates who tried to stake out ground in the ideological center, found themselves losing to the most ideologically liberal (Scruggs) and conservative (Troxclair) candidates. And the Travis County party organizations, especially the Republican Party’s organization, had no qualms about promoting the candidates and supporters of their cause. Thus, a nonpartisan contest was made partisan.
+
+**Voter Turnout: General Election**
+
+Voter turnout was 38.89 percent of the registered voters in the district, which is second highest among the 10 districts. In all 21,538 citizens cast ballots either during early voting—60.02 percent—or on Election Day—39.98 percent. Because of differences in voter turnout among the precincts, each precinct’s contribution to the total vote varied considerably. Table 1 depicts the voter turnout in each precinct and each precinct’s contribution to the total vote during the general election.
+
+**The Runoff Election in District 8**
+
+In the runoff election, the candidates became even more partisan in their attempt to win the election. Both campaigns relied on the partisan base of their party for their support and campaign organization. An indication of the degree by which partisanship explained the result in the runoff election, the correlation (Pearson Product-moment) between Scruggs’ vote in the precincts in District 8 and Democratic gubernatorial candidate Wendy Davis’ vote was quite high (.85), and the correlation between Troxclair’s vote and Republican gubernatorial candidate Gregg Abbott’s vote was .61.
+
+Voter turnout in the runoff (22.27 percent) was only 58 percent of the turnout in the general election even though the number of voters (12,412) was the second highest among the seven council districts holding runoff elections. Also, a higher percentage of the vote was cast during the early voting period in the runoff (68.37 percent) than in the general election. As in the general election, Troxclair won the early vote (by 242 votes in the general election and by 290 votes in the runoff). However, in both the general election and the runoff election, Troxclair lost the Election Day vote by 63 votes and by 234 votes respectively. After the final vote tally, Troxclair won by 56 votes.
+
+Comparing the results of the general election with the results of the runoff elections in each precinct, Troxclair won those precincts where Becky Bray (precincts 315, 347, and 365) or Darrell Pierce (precincts 303 and 363) had won the most votes in the general election. Troxclair won only one precinct (307) in which Scruggs had won the most votes in the general election. On the other hand, Scruggs won three precincts (338, 362, and 364) in which Troxclair had won the most votes in the general election. Otherwise, the voters’ candidate preference in the general election did not change in the runoff election.
+
+The Travis County Republican Party could hardly contain its elation when Republicans prevailed in three districts, which included District 8, in the runoff election. The Austin American-Statesman reported:
+
+“It was the top end of what we hoped for,” said James Dickey, chairman of the Travis County Republican Party.
+
+“Three conservatives on an 11-member panel are never going to win the day by brute force,” Dickey said. “But perhaps the argument will not be about where to put (an estimated) $57 million headquarters for Austin Energy. Perhaps the debate will be about whether there should be a $57 million headquarters for Austin Energy.”
+
+The Austin Monitor described Troxclair’s priorities at her victory celebration at a southwest Austin restaurant: “Troxclair said she would pursue her campaign platform of ‘bringing a voice to taxpayers. My priorities are going to be immediately reducing property taxes, taking a hard look at the budget and making sure that we’re getting a great return on the investment that we’re spending.’” She also repeated the issues that she emphasized in the campaign—transportation and affordability.
+
+**Campaign Finances &amp; Organization**
+
+In the contest for contributions, Troxclair defeated Scruggs in every reporting period prior to the general election. By eight days before the election, Troxclair had raised $55,851.24 to Scruggs’ $23,230.62. Furthermore, from that date until eight days before the runoff election, Troxclair again outraised Scruggs, $53,805.38 to $37,151.28. Although Troxclair started raising campaign contributions nearly three months after Scruggs, her total contributions eclipsed his by $49,344.72. In addition, Troxclair loaned her campaign $55,000, compared to Scruggs’ loans of $26,263.55. It’s fair to say that Troxclair enjoyed a substantial advantage in terms of campaign contributions. Nevertheless, in total campaign spending, Troxclair did not possess a sizeable advantage. She spent $76,751.40 to his $74,238.63. However, Troxclair did have nearly $81,000 to spend during the last ten days of the campaign, and Scruggs only had a little more than $13,000. The final campaign finance report is not due until January 15, 2015. Only then will the true extent of Troxclair’s advantage in campaign funds be known.
+
+Both campaigns employed political strategists normally associated with partisan electoral contests. Troxclair used Strategic Campaign Group, a full-service campaign consulting operation that, according to its Web site, “consists of seasoned, conservative political operatives experienced in managing every aspect of local, state, and federal political campaigns. We specialize in providing strategic political guidance and campaign services for Republican candidates and conservative organizations in need of cost-effective solutions for political outreach. Our services have been designed to give candidates and organizations the best opportunity to communicate on a personal level with voters and supporters across the country and share their ideas and concerns while developing relationships with each other that can increase engagement levels with detailed metrics to back it all up.” Political campaign services include direct mail; automated and live phone services; campaign consulting, and fundraising. During the campaign, the group received $11,081.72 for services to the campaign. In addition, Chelsey McGee, legislative aide to Representative Jason Issac, received $9,000.00 from the campaign for contract labor. The Travis County Republican Party also provided assistance by paying for services by Murphy Nasica, Mike Lavigne, and Left Hand Design to candidates in three districts, including District 8.
+
+Scruggs employed Rindy and Associates, an Austin-based campaign group that also offers multiple campaign services to Democratic Party candidates. Dean Rindy, who also teams with his wife, Cynthia Miller, at Rindy Miller Media, operates a full-service campaign operation. During the campaign, Scruggs paid Rindy $32,045.00 for his services. Many activities of the campaign, especially the field work, were coordinated by Democratic Party precinct chairs and Travis County Democratic Party (TCDP) employees, such as Stella Savage, TCDP volunteer coordinator. The campaign manager, Jonathan Panzer, worked on Ora Houston’s campaign in District 1 before joining Scruggs’ campaign for the runoff election. Volunteers used the Battleground Texas VAN (Voter Application Network) to identify voters who had voted in Democratic Party primary elections for mobilization efforts. In nine targeted precincts that accounted for 63 percent of the total vote in the runoff election, Scruggs won by a margin of 530 votes, losing only one precinct (367) by 117 votes. The Travis County Democratic Party was not as quick to endorse candidates as the Travis County Republican Party, giving an edge to Troxclair.
+
+**The Results and the Future for District 8 Contests**
+
+More than any other factor, voters’ partisan affiliations explain the results in most precincts. Neither candidate won by large margins in most of the precincts in District 8 in the runoff election. Troxclair won only two precincts (314 and 315) with 60 percent or more of the vote. Only a small portion of precinct 314, which occupies the most western portion of the Travis Country subdivision, is in the City of Austin. Precinct 315, the southern-most area of the district along Brodie Lane, was probably influenced by Troxclair’s support for—and Scruggs’ opposition to—State Highway 45 Southwest (SH 45 SW). On the other hand, Scruggs won seven precincts with 60 percent of the vote or more (302, 330, 338, 339, 351, 356, and 364).
+
+With only 56 votes separating the two candidates in the runoff election, one can expect campaigns in District 8 to be intense in the future. Troxclair has four years to demonstrate that she can serve a constituency that is about equally divided between supporters and detractors. Can she work with other council members to deal with the issues that dominated the campaign—affordability, transportation, and the city’s budget? There is little doubt that many Democrats will be watching closely and that some will be preparing to challenge her when she seeks re-election in 2018.
