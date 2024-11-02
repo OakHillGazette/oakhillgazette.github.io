@@ -1,0 +1,49 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+pagination: 
+  enabled: true
+---
+
+<!-- Display the latest featured post -->
+<div class="featured-post">
+  {% assign featured_posts = site.categories['Featured Post'] | sort: 'date' | reverse %}
+  {% if featured_posts.size > 0 %}
+    <article class="post">
+      <h2><a href="{{ featured_posts[0].url | relative_url }}">{{ featured_posts[0].title }}</a></h2>
+      <p>{{ featured_posts[0].excerpt }}</p>
+    </article>
+  {% endif %}
+</div>
+
+<!-- Display the next four featured posts -->
+<div class="other-featured-posts">
+  {% if featured_posts.size > 1 %}
+    {% for post in featured_posts offset:1 limit:4 %}
+      <article class="post">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
+  {% endif %}
+</div>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</div>
