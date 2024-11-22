@@ -2,13 +2,20 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>Posts in "{{ page.category }}"</h1>
 
-<div class="posts">
-  {% for post in site.categories[page.category] %}
-    <article class="post">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </article>
-  {% endfor %}
-</div>
+{% assign category_posts = site.categories[page.category] | default: [] %}
+{% assign sorted_posts = category_posts | sort: 'date' | reverse %}
+
+{% if sorted_posts.size > 0 %}
+  <div class="posts">
+    {% for post in sorted_posts %}
+      <article class="post">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No posts found in this category.</p>
+{% endif %}

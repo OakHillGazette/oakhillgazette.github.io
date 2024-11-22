@@ -30,9 +30,19 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-paginate-v2
+  - jekyll-archives
+
+pagination:
+  enabled: true
+  per_page: 10          # Number of posts per page
+  permalink: "/:categories/page/:num/"  # Custom permalink for paginated category pages
 
 paginate: 10  # Number of posts per page
 paginate_path: "/page:num/"  # URL path for paginated pages
+
+include:
+  - assets
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +63,9 @@ paginate_path: "/page:num/"  # URL path for paginated pages
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category
+  permalinks: /categories/:name/
