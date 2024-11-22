@@ -1,0 +1,114 @@
+body {
+    background: url("/assets/bg.png") repeat 0 0;
+    font: 12px / 20px Helvetica, Arial, sans-serif;
+}
+  
+footer.site-footer {
+    background: url("/assets/footer.bg.png") no-repeat center bottom;
+}
+
+.site-header {
+    border-top: 0px solid #424242;
+    border-bottom: 0px solid #e8e8e8;
+    min-height: 55.95px;
+    position: relative;
+}
+
+#logo {
+    padding: 15px 0;
+}
+
+.content-box {
+    background: white;
+    padding: 15px;
+    border: 1px solid #d8d8d8;
+    box-shadow: 1px 1px 10px #cacaca;
+}
+
+.container {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.feat-left {
+    max-width: 60%;
+}
+
+.feat-right {
+    max-width: 38%;
+}
+
+.featured-post article {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: #004276;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.post-excerpt p {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+p.post-date {
+    font-style: italic;
+    font-size: 11px;
+    color: #aaaaaa;
+}
+
+p.button a {
+    font-size: 14px;
+}
+
+h3.h3title {
+    clear: both;
+    text-transform: uppercase;
+    font-size: 14px !important;
+    font-weight: bold;
+    color: #004276;
+    background: url("/assets/h3.bg.gif") center repeat-x;
+    display: block;
+    margin: 20px 0 10px 0;
+}
+
+h3.h3title span {
+    display: inline-block;
+    background: #fff;
+    padding: 0 6px;
+    margin-left: 12px;
+}
+
+.posts-grid {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping to new rows */
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.grid-item {
+    flex: 1 1 calc(33% - 20px); /* 4 items per row with spacing */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+}  
+
+.grid-item h3 {
+    margin-top: 20px;
+}
+
+main.page-content {
+    padding: 0;
+}
