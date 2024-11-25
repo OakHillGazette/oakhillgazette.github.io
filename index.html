@@ -7,6 +7,8 @@ pagination:
   enabled: true
 ---
 
+<div class="content-box">
+
 {% if paginator.page == 1 %}
 
 <!-- Display the latest featured post -->
@@ -69,4 +71,6 @@ pagination:
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
   {% endif %}
+</div>
+
 </div>

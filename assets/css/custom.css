@@ -12,11 +12,21 @@ footer.site-footer {
     border-bottom: 0px solid #e8e8e8;
     min-height: 55.95px;
     position: relative;
+    padding: 20px 0;
 }
 
 #logo {
-    padding: 15px 0;
-}
+    display: block;
+    max-width: 100%; /* Ensure the logo scales responsively */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  /* Center the containing link */
+  .site-title {
+    text-align: center;
+    display: block; /* Ensure block-level behavior for centering */
+    float: none;
+  }
 
 .content-box {
     background: white;
@@ -142,4 +152,45 @@ main.page-content {
 
 .posts .post p {
     margin-bottom: 30px;
+}
+
+.back {
+    font-size: 14px;
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.back a {
+    padding: 15px;
+}
+
+.back:first-of-type {
+    margin-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+    #logo {
+        max-width: 170px;
+        margin: 0 auto; /* Center the logo horizontally */
+    }
+    .site-header {
+        padding-bottom: 0;
+    }
+    
+    .featured-post article {
+        display: block;
+    }
+    
+    .feat-left {
+        max-width: unset;
+    }
+    
+    .feat-right {
+        max-width: unset;
+        padding-top: 20px;
+    }
+
+    .grid-item {
+        flex: 1 1 calc(50% - 20px);
+    }
 }
